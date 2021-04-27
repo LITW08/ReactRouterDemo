@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRouterDemo.Web", "ReactRouterDemo.Web\ReactRouterDemo.Web.csproj", "{E0EEB9EB-56F4-42C3-9F46-96712D3C2A7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactRouterDemo.Data", "ReactRouterDemo.Data\ReactRouterDemo.Data.csproj", "{9CC7705C-EDC6-4A0B-8120-7040BC409B6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0EEB9EB-56F4-42C3-9F46-96712D3C2A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EEB9EB-56F4-42C3-9F46-96712D3C2A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EEB9EB-56F4-42C3-9F46-96712D3C2A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EEB9EB-56F4-42C3-9F46-96712D3C2A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC7705C-EDC6-4A0B-8120-7040BC409B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC7705C-EDC6-4A0B-8120-7040BC409B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC7705C-EDC6-4A0B-8120-7040BC409B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC7705C-EDC6-4A0B-8120-7040BC409B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324ADFDE-A37E-4563-A0EB-F45D3465F89E}
+	EndGlobalSection
+EndGlobal
